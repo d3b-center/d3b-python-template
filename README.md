@@ -1,8 +1,10 @@
 # D3b Python Template
 
 <p align="center">
-  <a href="https://github.com/d3b-center/d3b-python-template/blob/master/LICENSE"><img src="https://img.shields.io/github/license/d3b-center/d3b-python-template.svg?style=for-the-badge"></a>
+  <a href="https://github.com/d3b-center/d3b-python-template/blob/master/LICENSE"><img src="https://img.shields.io/github/license/d3b-center/d3b-python-template.svg?style=flat-square"></a>
   <a href="https://github.com/marketplace/actions/super-linter"><img src="https://github.com/d3b-center/d3b-python-template/workflows/Lint%20Code%20Base/badge.svg"></a>
+  <a href="https://gitmoji.dev"><img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji"/>
+</a>
 </p>
 
 Use this template to bootstrap a new D3b python repository.
